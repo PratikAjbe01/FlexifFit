@@ -3,7 +3,7 @@
 Welcome to FlexifFit, your ultimate fitness companion! FlexifFit is a web application built with React, Chakra UI, React Router DOM, and Axios. It leverages the ExerciseDB API from Rapid API to provide you with a vast database of exercises. The application offers features such as exercise search, filtering, pagination, and multiple fitness calculators, including BMI, One Rep Max, and Calorie Count.
 
 ## Project Image
-![FlexifFit](path/to/your/project/image.png)
+![FlexifFit](https://github.com/PratikAjbe01/FlexifFit/blob/main/src/assets/Screenshot%202023-12-27%20191014.png)
 
 ## Features
 
