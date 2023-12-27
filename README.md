@@ -4,7 +4,7 @@ Welcome to FlexifFit, your ultimate fitness companion! FlexifFit is a web applic
 
 ## Project Image
 ![FlexifFit](https://github.com/PratikAjbe01/FlexifFit/blob/main/src/assets/Screenshot%202023-12-27%20191014.png)
-
+![FlexifFit](https://github.com/PratikAjbe01/FlexifFit/blob/main/src/assets/Screenshot%202023-12-27%20191122.png)
 ## Features
 
 ### 1. Exercise Search
